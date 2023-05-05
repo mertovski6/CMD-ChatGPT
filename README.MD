@@ -1,5 +1,3 @@
-Sure, here's a README file you can use for your Python chatbot application:
-
 # Python Chatbot with OpenAI's GPT-3
 
 This is a simple Python chatbot application that uses OpenAI's GPT-3 language model to generate responses to user input.
